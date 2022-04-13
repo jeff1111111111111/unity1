@@ -68,7 +68,6 @@
     <Compile Include="Assets\ResetOnRespawn.cs" />
     <Compile Include="Assets\PT_Destroy_On_Collide.cs" />
     <Compile Include="Assets\PT_Base_CC_Move.cs" />
-    <Compile Include="Assets\PT_Basic_Physics_Move.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\RyuGiKen\Crossbow\README.txt" />
